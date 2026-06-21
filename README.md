@@ -97,3 +97,7 @@ dữ liệu/AI (nếu có).
   4 model trong 1 request — giảm số lần round-trip, đồng bộ trạng thái loading.
 - **Chịu lỗi từng phần**: nếu 1 trong 4 model lỗi khi suy luận, 3 model còn
   lại vẫn trả kết quả bình thường (xem `errors` trong response JSON).
+
+
+Để chạy được các dòng code trên sẽ phải tạo một file mô hình và đẩy các model đã được train sẵn trong link drive này lên:
+https://drive.google.com/drive/folders/1TKL0IH8akyPVKfAaVb3XLAoRkHOeLRvB?usp=sharing
